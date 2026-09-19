@@ -71,12 +71,11 @@ copiando el contenido de cada script en una celda.
 ## 📄 Informe
 
 El informe completo con la explicación detallada de cada algoritmo, resultados, gráficos
-de convergencia y conclusiones se encuentra en
-[`Informe_Actividad03_Swarm_ML.pdf`](./Informe_Actividad03_Swarm_ML.pdf).
+de convergencia y conclusiones.
 
 ## 🎥 Video explicativo
 
-> Enlace al video (máx. 15 min): _agregar aquí el enlace_
+> Enlace al video (máx. 15 min): https://drive.google.com/drive/folders/1YASLlzHMzpk5JO26jAVZTanDYkYmkvX2?usp=sharing
 
 ## 👥 Integrantes
 
